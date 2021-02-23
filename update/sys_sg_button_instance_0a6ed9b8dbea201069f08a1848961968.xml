@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Delete">324b1178dbea201069f08a18489619c8</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>trailing_swipe</location>
+        <name>Delete</name>
+        <order>20</order>
+        <parent>f5a2676cdba6201069f08a18489619f7</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-23 00:45:39</sys_created_on>
+        <sys_id>0a6ed9b8dbea201069f08a1848961968</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_button_instance_0a6ed9b8dbea201069f08a1848961968</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-23 00:45:39</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=0a6ed9b8dbea201069f08a1848961968"/>
+</record_update>
